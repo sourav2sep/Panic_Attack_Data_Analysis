@@ -30,7 +30,7 @@ Analyzed key fields and data distribution
 - Connected Power BI to Snowflake as a data source
 Imported data into Power BI for further analysis
 
-![Snap_2](https://github.com/user-attachments/assets/ce04fbc6-f5d0-4690-b3f0-ca185e63305e)
+![Snap_2](https://github.com/user-attachments/assets/6c498abc-ce5d-4cfe-aee5-cc6b0baf780b)
 
 5. Data Understanding & Preparation
 - Explored dataset inside Power BI
